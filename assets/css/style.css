@@ -44,7 +44,17 @@ body {
     margin: 0;
     padding: 0;
 }
-
+.color2{
+    color:#00c9d5
+}
+.text-underline{
+    text-decoration: underline;
+}
+.portfolio-single iframe, .portfolio-single img{
+    margin-left: 1%;
+    height: 450px !important;
+    width: 100%;
+}
 body {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
@@ -207,7 +217,7 @@ p {
 }
 
 .navbar-nav .nav-item {
-    padding: 0 10px;
+    padding: 0 0px;
 }
 
 .navbar-nav .nav-link {
