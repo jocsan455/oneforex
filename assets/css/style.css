@@ -133,7 +133,7 @@ h6 {
 p {
     font-family: 'Open Sans', sans-serif;
     font-size: 13px;
-    color: #666;
+    color: black;
     line-height: 24px;
     font-weight: 500;
 }
@@ -219,7 +219,7 @@ p {
 .navbar-nav .nav-link:hover,
 .sticky .navbar-nav .nav-link.active,
 .sticky .navbar-nav .nav-link:hover {
-    color: #00c9d5;
+    color: #0084c5;
 }
 
 .sticky {
@@ -286,7 +286,7 @@ p {
 }
 
 .caption h4 {
-    color: #00c9d5;
+    color: #0084c5;
     font-weight: 700;
     font-family: 'Open Sans', sans-serif;
 }
@@ -299,8 +299,8 @@ p {
 
 .caption a {
     display: inline-block;
-    border: 2px solid #00c9d5;
-    color: #00c9d5;
+    border: 2px solid #0084c5;
+    color: #0084c5;
     padding: 10px 30px;
     border-radius: 30px;
     font-weight: 600;
@@ -309,7 +309,7 @@ p {
 }
 
 .caption a.bg {
-    background-color: #00c9d5;
+    background-color: #0084c5;
     color: #fff
 }
 
@@ -399,7 +399,7 @@ p {
 }
 
 .main-slider .owl-dot.active {
-    background-color: #00c9d5;
+    background-color: #0084c5;
 }
 
 .owl-stage {
@@ -423,7 +423,7 @@ p {
     margin: 0 0 20px;
     border-bottom: 1px solid #ddd;
     padding-bottom: 8px;
-    color: #00c9d5
+    color: #0084c5
 }
 
 .about-content h2:after {
@@ -431,7 +431,7 @@ p {
     width: 100px;
     height: 2px;
     display: block;
-    background-color: #00c9d5;
+    background-color: #0084c5;
     margin: 7px 0 10px;
     position: absolute;
 }
@@ -460,7 +460,7 @@ p {
     width: 50px;
     height: 50px;
     display: inline-block;
-    background-color: #00c9d5;
+    background-color: #0084c5;
     border-radius: 50%;
     line-height: 52px;
     color: #fff;
@@ -487,7 +487,7 @@ p {
 }
 
 .section-heading h2 span {
-    color: #00c9d5
+    color: #0084c5
 }
 
 
@@ -518,7 +518,7 @@ p {
 .service-single .icon span {
     width: 70px;
     height: 70px;
-    border: 2px solid #00c9d5;
+    border: 2px solid #0084c5;
     display: block;
     -webkit-transform: rotate(-45deg);
     transform: rotate(-45deg);
@@ -536,7 +536,7 @@ p {
     transform: rotate(45deg);
     font-size: 40px;
     margin: 0 0 10px;
-    color: #00c9d5
+    color: #0084c5
 }
 
 .service-single .content {
@@ -550,7 +550,7 @@ p {
 }
 
 .service-single:hover span {
-    background-color: #00c9d5;
+    background-color: #0084c5;
 }
 
 .service-single:hover i {
@@ -586,7 +586,7 @@ p {
 
 .project-menu button.active,
 .project-menu button:hover {
-    background-color: #00c9d5;
+    background-color: #0084c5;
     color: #fff;
 }
 
@@ -631,7 +631,7 @@ p {
 }
 
 .project-overlay .icon a:hover {
-    color: #00c9d5;
+    color: #0084c5;
 }
 
 .project-single:hover .project-overlay {
@@ -677,7 +677,7 @@ p {
 
 .counter-single h2 {
     margin: 0 0 10px;
-    color: #00c9d5;
+    color: #0084c5;
     font-weight: 800
 }
 
@@ -704,7 +704,7 @@ p {
 }
 
 .why-choose-content h2 span {
-    color: #00c9d5
+    color: #0084c5
 }
 
 #accordion {
@@ -743,7 +743,7 @@ p {
 
 .card-header.active,
 .card-header:hover {
-    background-color: #00c9d5;
+    background-color: #0084c5;
 }
 
 .card-header h5 a {
@@ -784,7 +784,7 @@ p {
 
 .pricing-tbl-single h4 {
     font-weight: 700;
-    color: #00c9d5;
+    color: #0084c5;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -813,10 +813,10 @@ p {
 
 .pricing-tbl-single a {
     display: inline-block;
-    border: 2px solid #00c9d5;
+    border: 2px solid #0084c5;
     padding: 10px 30px;
     border-radius: 30px;
-    color: #00c9d5;
+    color: #0084c5;
     font-weight: 500;
     margin: 30px 0 0;
 }
@@ -829,7 +829,7 @@ p {
 .pricing-tbl-single.recom {
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
-    background-color: #00c9d5
+    background-color: #0084c5
 }
 
 .pricing-tbl-single.recom h4,
@@ -850,7 +850,7 @@ p {
 
 .pricing-tbl-single.recom a:hover {
     background-color: #fff;
-    color: #00c9d5
+    color: #0084c5
 }
 
 /*=====================================================================================
@@ -887,7 +887,7 @@ p {
     width: 35px;
     height: 35px;
     color: #fff;
-    background-color: #00c9d5;
+    background-color: #0084c5;
     display: block;
     -webkit-transform: rotate(-45deg);
     transform: rotate(-45deg);
@@ -934,7 +934,7 @@ p {
     text-align: center;
     font-weight: 700;
     margin: 0 0 50px;
-    color: #00c9d5
+    color: #0084c5
 }
 
 .client-info {
@@ -946,7 +946,7 @@ p {
     max-width: 110px;
     margin: 0 auto 15px;
     border-radius: 50%;
-    border: 4px solid #00c9d5
+    border: 4px solid #0084c5
 }
 
 .client-comment {
@@ -993,7 +993,7 @@ p {
 }
 
 .testimonial-carousel .owl-dot.active {
-    background-color: #00c9d5;
+    background-color: #0084c5;
 }
 
 /*=====================================================================================
@@ -1019,7 +1019,7 @@ p {
 .newsletter-box h2 {
     font-weight: 700;
     margin: 5px 0 0;
-    color: #00c9d5;
+    color: #0084c5;
     font-size: 30px
 }
 
@@ -1039,7 +1039,7 @@ p {
     padding: 0 40px;
     border-radius: 30px;
     border: 0;
-    background-color: #00c9d5;
+    background-color: #0084c5;
     color: #fff;
     font-weight: 600;
     cursor: pointer;
@@ -1084,7 +1084,7 @@ p {
 
 .post-details h3 a:hover,
 .post-details p a:hover {
-    color: #00c9d5
+    color: #0084c5
 }
 
 .post-details p a {
@@ -1093,7 +1093,7 @@ p {
     display: inline-block;
     padding: 25px 0 5px;
     font-weight: 600;
-    color: #00c9d5;
+    color: #0084c5;
 }
 
 .post-details p small {
@@ -1117,7 +1117,7 @@ p {
 }
 
 .contact-info {
-    background-color: #00c9d5;
+    background-color: #0084c5;
     padding: 60px 40px;
     height: 100%;
 }
@@ -1171,7 +1171,7 @@ p {
 }
 
 .contact-form button:hover {
-    background-color: #00c9d5;
+    background-color: #0084c5;
 }
 
 #map {
@@ -1230,12 +1230,12 @@ p {
     line-height: 50px;
     font-size: 20px;
     border-radius: 50%;
-    color: #00c9d5;
+    color: #0084c5;
     margin: 0 2px 30px
 }
 
 #footer ul li a:hover {
-    background-color: #00c9d5;
+    background-color: #0084c5;
     color: #fff
 }
 
@@ -1244,7 +1244,7 @@ p {
 }
 
 #footer p a {
-    color: #00c9d5
+    color: #0084c5
 }
 
 #footer p a:hover {
@@ -1297,12 +1297,12 @@ p {
 }
 
 .breadcrumb li a:hover {
-    color: #00c9d5;
+    color: #0084c5;
 }
 
 .breadcrumb li.active {
     font-weight: 500;
-    color: #00c9d5;
+    color: #0084c5;
 }
 
 .blog-sidebar {
@@ -1319,7 +1319,7 @@ p {
 .blog-sidebar .widget h4 {
     margin: 0 0 15px;
     font-weight: 600;
-    color: #00c9d5
+    color: #0084c5
 }
 
 .search.widget {
@@ -1386,7 +1386,7 @@ p {
 .category.widget ul li a:hover,
 .recent-post-cont h5 a:hover,
 .recent-post-cont h6 a:hover {
-    color: #00c9d5
+    color: #0084c5
 }
 
 .tags.widget span a {
@@ -1399,8 +1399,8 @@ p {
 }
 
 .tags.widget span a:hover {
-    border-color: #00c9d5;
-    background-color: #00c9d5;
+    border-color: #0084c5;
+    background-color: #0084c5;
     color: #fff
 }
 
@@ -1432,8 +1432,8 @@ p {
 .pagination .page-link:focus,
 .pagination .page-link:hover,
 .pagination .page-link.active {
-    background-color: #00c9d5;
-    border-color: #00c9d5;
+    background-color: #0084c5;
+    border-color: #0084c5;
     color: #fff
 }
 
@@ -1447,7 +1447,7 @@ p {
 
 .post-comments h3 {
     font-weight: 600;
-    color: #00c9d5;
+    color: #0084c5;
     margin: 50px 0 5px
 }
 
@@ -1472,7 +1472,7 @@ p {
 }
 
 .media h6 a:hover {
-    color: #00c9d5;
+    color: #0084c5;
 }
 
 .comment-form {
@@ -1504,23 +1504,23 @@ p {
 }
 
 .comment-btn button {
-    color: #00c9d5;
+    color: #0084c5;
     font-weight: 600;
     padding: 10px 30px;
     border-radius: 25px;
-    border: 2px solid #00c9d5;
+    border: 2px solid #0084c5;
     background-color: transparent;
     cursor: pointer;
     outline: 0
 }
 
 .comment-btn button:hover {
-    background-color: #00c9d5;
-    border-color: #00c9d5;
+    background-color: #0084c5;
+    border-color: #0084c5;
     color: #fff;
 }
 .color2{
-    color:#00c9d5
+    color:#0084c5
 }
 .text-underline{
     text-decoration: underline;
@@ -1538,7 +1538,7 @@ float: none;
 padding: 0px;
 }
 .color1{
-    color:#00c9d5;
+    color:#0084c5;
 }
 .white{
     background-color: #007eff;
