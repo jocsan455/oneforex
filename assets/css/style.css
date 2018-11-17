@@ -1569,8 +1569,8 @@ padding: 0px;
 .mb{
     margin-bottom: -50px;
 }
-.fpa img{
-    width: 50%;
+.fpa{
+    width: 30%;
 }
 .text p{
     margin-bottom: 5px;
@@ -1579,7 +1579,7 @@ padding: 0px;
     margin: 0 10px;
 }
 #risk{
-    background-color:#1c1c1c; 
+    background-color:black; 
     color: white;
 }
 .textologo,.textologon{
