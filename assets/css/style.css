@@ -1582,3 +1582,11 @@ padding: 0px;
     background-color:#1c1c1c; 
     color: white;
 }
+.textologo,.textologon{
+    color: white;
+    display: block;
+    text-align: right;
+}
+.textologon{
+    color: black;
+}

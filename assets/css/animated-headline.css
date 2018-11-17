@@ -517,13 +517,13 @@ xslide
 .cd-headline.slide b.is-visible {
     top: 0;
     opacity: 1;
-    -webkit-animation: slide-in 0.6s;
-    animation: slide-in 0.6s;
+    -webkit-animation: slide-in 6s;
+    animation: slide-in 6s;
 }
 
 .cd-headline.slide b.is-hidden {
-    -webkit-animation: slide-out 0.6s;
-    animation: slide-out 0.6s;
+    -webkit-animation: slide-out 6s;
+    animation: slide-out 6s;
 }
 
 @-webkit-keyframes slide-in {
@@ -730,13 +730,13 @@ xrotate-3
 }
 
 .cd-headline.rotate-3 i.in {
-    -webkit-animation: cd-rotate-3-in 0.6s forwards;
-    animation: cd-rotate-3-in 0.6s forwards;
+    -webkit-animation: cd-rotate-3-in 6.6s forwards;
+    animation: cd-rotate-3-in 6.6s forwards;
 }
 
 .cd-headline.rotate-3 i.out {
-    -webkit-animation: cd-rotate-3-out 0.6s forwards;
-    animation: cd-rotate-3-out 0.6s forwards;
+    -webkit-animation: cd-rotate-3-out 6s forwards;
+    animation: cd-rotate-3-out 6s forwards;
 }
 
 .no-csstransitions .cd-headline.rotate-3 i {
@@ -811,13 +811,13 @@ xscale
 }
 
 .cd-headline.scale i.in {
-    -webkit-animation: scale-up 0.6s forwards;
-    animation: scale-up 0.6s forwards;
+    -webkit-animation: scale-up 6s forwards;
+    animation: scale-up 6s forwards;
 }
 
 .cd-headline.scale i.out {
-    -webkit-animation: scale-down 0.6s forwards;
-    animation: scale-down 0.6s forwards;
+    -webkit-animation: scale-down 6s forwards;
+    animation: scale-down 6s forwards;
 }
 
 .no-csstransitions .cd-headline.scale i {
@@ -899,13 +899,13 @@ xpush
 
 .cd-headline.push b.is-visible {
     opacity: 1;
-    -webkit-animation: push-in 0.6s;
-    animation: push-in 0.6s;
+    -webkit-animation: push-in 6s;
+    animation: push-in 6s;
 }
 
 .cd-headline.push b.is-hidden {
-    -webkit-animation: push-out 0.6s;
-    animation: push-out 0.6s;
+    -webkit-animation: push-out 6s;
+    animation: push-out 6s;
 }
 
 @-webkit-keyframes push-in {
