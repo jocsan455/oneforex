@@ -576,15 +576,15 @@ p {
 
 .project-menu {
     margin: 0 auto 40px;
-    border-radius: 30px;
+    border-radius: 5px;
     -webkit-box-shadow: 0 0px 10px 0 #ddd;
     box-shadow: 0 0px 10px 0 #ddd;
 }
 
 .project-menu button {
     background-color: transparent;
-    padding: 12px 20px;
-    border-radius: 30px;
+    padding: 10px 5px;
+    border-radius: 5px;
     font-size: 14px;
     font-weight: 600;
     cursor: pointer;
@@ -1213,7 +1213,8 @@ p {
 ======================================================================================*/
 
 #partner-area {
-    padding: 100px 0 95px;
+    padding: 20px;
+    margin-top: -125px;
 }
 
 /*=====================================================================================
@@ -1611,7 +1612,7 @@ padding: 0px;
     font-size: 14px;
 }
 .psection{
-    padding: 120px 0 0 0 !important;
+    padding: 120px 0 120px 0 !important;
 }
 .font-30 {
     font-size: 30px;
