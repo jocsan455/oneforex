@@ -1222,10 +1222,10 @@ p {
 ======================================================================================*/
 
 #footer {
-    background-color: #1c1c1c;
+    background-color: rgba(33, 33, 33, 1);
     text-align: center;
     overflow: hidden;
-    padding: 70px 0 45px
+    padding: 70px 0 45px;
 }
 
 #footer ul li {
@@ -1589,7 +1589,7 @@ padding: 0px;
     margin: 0 10px;
 }
 #risk{
-    background-color:rgb(55,55,55); 
+    background-color: rgba(25, 25, 25, 1);
     color: white;
 }
 #risk{
