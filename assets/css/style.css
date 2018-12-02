@@ -47,7 +47,7 @@ body {
 body {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
-    color: #373737;
+    color: rgba(75,75,75,1);
     position: relative;
     overflow-x: hidden;
     letter-spacing: 1px
@@ -83,7 +83,7 @@ button {
 }
 
 a {
-    color: #373737;
+    color: rgba(75,75,75,1);
     font-size: 14px
 }
 
@@ -133,7 +133,7 @@ h6 {
 p {
     font-family: 'Open Sans', sans-serif;
     font-size: 13px;
-    color: #666;
+    color: rgba(75,75,75,1);
     line-height: 24px;
     font-weight: 500;
 }
@@ -219,7 +219,7 @@ p {
 .navbar-nav .nav-link:hover,
 .sticky .navbar-nav .nav-link.active,
 .sticky .navbar-nav .nav-link:hover {
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
 }
 
 .sticky {
@@ -295,7 +295,7 @@ p {
 }
 
 .caption h4 {
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
     font-weight: 700;
     font-family: 'Open Sans', sans-serif;
 }
@@ -309,7 +309,7 @@ p {
 .caption a {
     display: inline-block;
     border: 2px solid rgba(0, 136, 204, 1);
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
     padding: 10px 30px;
     border-radius: 30px;
     font-weight: 600;
@@ -318,7 +318,7 @@ p {
 }
 
 .caption a.bg {
-    background-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
     color: #fff
 }
 
@@ -408,7 +408,7 @@ p {
 }
 
 .main-slider .owl-dot.active {
-    background-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
 }
 
 .owl-stage {
@@ -432,7 +432,7 @@ p {
     margin: 0 0 20px;
     border-bottom: 1px solid #ddd;
     padding-bottom: 8px;
-    color: rgba(0, 136, 204, 1)
+    color: rgba(48, 148, 241, 1)
 }
 
 .about-content h2:after {
@@ -440,7 +440,7 @@ p {
     width: 100px;
     height: 2px;
     display: block;
-    background-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
     margin: 7px 0 10px;
     position: absolute;
 }
@@ -469,7 +469,7 @@ p {
     width: 50px;
     height: 50px;
     display: inline-block;
-    background-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
     border-radius: 50%;
     line-height: 52px;
     color: #fff;
@@ -496,7 +496,7 @@ p {
 }
 
 .section-heading h2 span {
-    color: rgba(0, 136, 204, 1)
+    color: rgba(48, 148, 241, 1)
 }
 
 
@@ -544,7 +544,7 @@ p {
     transform: rotate(45deg);
     font-size: 40px;
     margin: 0 0 10px;
-    color: rgba(0, 136, 204, 1)
+    color: rgba(48, 148, 241, 1)
 }
 
 .service-single .content {
@@ -559,7 +559,7 @@ p {
 }
 
 .service-single:hover span {
-    background-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
 }
 
 .service-single:hover i {
@@ -595,7 +595,7 @@ p {
 
 .project-menu button.active,
 .project-menu button:hover {
-    background-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
     color: #fff;
 }
 
@@ -640,7 +640,7 @@ p {
 }
 
 .project-overlay .icon a:hover {
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
 }
 
 .project-single:hover .project-overlay {
@@ -686,7 +686,7 @@ p {
 
 .counter-single h2 {
     margin: 0 0 10px;
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
     font-weight: 800
 }
 
@@ -713,7 +713,7 @@ p {
 }
 
 .why-choose-content h2 span {
-    color: rgba(0, 136, 204, 1)
+    color: rgba(48, 148, 241, 1)
 }
 
 #accordion {
@@ -752,7 +752,7 @@ p {
 
 .card-header.active,
 .card-header:hover {
-    background-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
 }
 
 .card-header h5 a {
@@ -793,7 +793,7 @@ p {
 
 .pricing-tbl-single h4 {
     font-weight: 700;
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -825,7 +825,7 @@ p {
     border: 2px solid rgba(0, 136, 204, 1);
     padding: 10px 30px;
     border-radius: 30px;
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
     font-weight: 500;
     margin: 30px 0 0;
 }
@@ -838,7 +838,7 @@ p {
 .pricing-tbl-single.recom {
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
-    background-color: rgba(0, 136, 204, 1)
+    background-color: rgba(48, 148, 241, 1)
 }
 
 .pricing-tbl-single.recom h4,
@@ -859,7 +859,7 @@ p {
 
 .pricing-tbl-single.recom a:hover {
     background-color: #fff;
-    color: rgba(0, 136, 204, 1)
+    color: rgba(48, 148, 241, 1)
 }
 
 /*=====================================================================================
@@ -896,7 +896,7 @@ p {
     width: 35px;
     height: 35px;
     color: #fff;
-    background-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
     display: block;
     -webkit-transform: rotate(-45deg);
     transform: rotate(-45deg);
@@ -943,7 +943,7 @@ p {
     text-align: center;
     font-weight: 700;
     margin: 0 0 50px;
-    color: rgba(0, 136, 204, 1)
+    color: rgba(48, 148, 241, 1)
 }
 
 .client-info {
@@ -1002,7 +1002,7 @@ p {
 }
 
 .testimonial-carousel .owl-dot.active {
-    background-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
 }
 
 /*=====================================================================================
@@ -1048,7 +1048,7 @@ p {
     padding: 0 40px;
     border-radius: 30px;
     border: 0;
-    background-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
     color: #fff;
     font-weight: 600;
     cursor: pointer;
@@ -1093,7 +1093,7 @@ p {
 
 .post-details h3 a:hover,
 .post-details p a:hover {
-    color: rgba(0, 136, 204, 1)
+    color: rgba(48, 148, 241, 1)
 }
 
 .post-details p a {
@@ -1102,7 +1102,7 @@ p {
     display: inline-block;
     padding: 25px 0 5px;
     font-weight: 600;
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
 }
 
 .post-details p small {
@@ -1126,7 +1126,7 @@ p {
 }
 
 .contact-info {
-    background-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
     padding: 60px 40px;
     height: 100%;
 }
@@ -1180,7 +1180,7 @@ p {
 }
 
 .contact-form button:hover {
-    background-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
 }
 
 #map {
@@ -1240,12 +1240,12 @@ p {
     line-height: 50px;
     font-size: 20px;
     border-radius: 50%;
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
     margin: 0 2px 30px
 }
 
 #footer ul li a:hover {
-    background-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
     color: #fff
 }
 
@@ -1254,7 +1254,7 @@ p {
 }
 
 #footer p a {
-    color: rgba(0, 136, 204, 1)
+    color: rgba(48, 148, 241, 1)
 }
 
 #footer p a:hover {
@@ -1307,12 +1307,12 @@ p {
 }
 
 .breadcrumb li a:hover {
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
 }
 
 .breadcrumb li.active {
     font-weight: 500;
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
 }
 
 .blog-sidebar {
@@ -1329,7 +1329,7 @@ p {
 .blog-sidebar .widget h4 {
     margin: 0 0 15px;
     font-weight: 600;
-    color: rgba(0, 136, 204, 1)
+    color: rgba(48, 148, 241, 1)
 }
 
 .search.widget {
@@ -1396,7 +1396,7 @@ p {
 .category.widget ul li a:hover,
 .recent-post-cont h5 a:hover,
 .recent-post-cont h6 a:hover {
-    color: rgba(0, 136, 204, 1)
+    color: rgba(48, 148, 241, 1)
 }
 
 .tags.widget span a {
@@ -1409,8 +1409,8 @@ p {
 }
 
 .tags.widget span a:hover {
-    border-color: rgba(0, 136, 204, 1);
-    background-color: rgba(0, 136, 204, 1);
+    border-color: rgba(48, 148, 241, 1);
+    background-color: rgba(48, 148, 241, 1);
     color: #fff
 }
 
@@ -1442,8 +1442,8 @@ p {
 .pagination .page-link:focus,
 .pagination .page-link:hover,
 .pagination .page-link.active {
-    background-color: rgba(0, 136, 204, 1);
-    border-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
+    border-color: rgba(48, 148, 241, 1);
     color: #fff
 }
 
@@ -1457,7 +1457,7 @@ p {
 
 .post-comments h3 {
     font-weight: 600;
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
     margin: 50px 0 5px
 }
 
@@ -1482,7 +1482,7 @@ p {
 }
 
 .media h6 a:hover {
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
 }
 
 .comment-form {
@@ -1514,7 +1514,7 @@ p {
 }
 
 .comment-btn button {
-    color: rgba(0, 136, 204, 1);
+    color: rgba(48, 148, 241, 1);
     font-weight: 600;
     padding: 10px 30px;
     border-radius: 25px;
@@ -1525,8 +1525,8 @@ p {
 }
 
 .comment-btn button:hover {
-    background-color: rgba(0, 136, 204, 1);
-    border-color: rgba(0, 136, 204, 1);
+    background-color: rgba(48, 148, 241, 1);
+    border-color: rgba(48, 148, 241, 1);
     color: #fff;
 }
 .color2{
