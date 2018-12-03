@@ -323,8 +323,8 @@ p {
 }
 
 .caption a:hover {
-    background-color: #01b5d6;
-    border-color: #01b5d6;
+    background-color: #3094f1;
+    border-color: #3094f1;
     color: #fff
 }
 
@@ -462,7 +462,7 @@ p {
 }
 
 .about-content a:hover {
-    color: #01b5d6
+    color: #3094f1
 }
 
 .about-content i {
@@ -479,7 +479,7 @@ p {
 }
 
 .about-content i:hover {
-    background-color: #01b5d6;
+    background-color: #3094f1;
 }
 
 /*=====================================================================================
@@ -831,7 +831,7 @@ p {
 }
 
 .pricing-tbl-single a:hover {
-    background-color: #01b5d6;
+    background-color: #3094f1;
     color: #fff;
 }
 
@@ -915,7 +915,7 @@ p {
 }
 
 .team-single li a span:hover {
-    background-color: #01b5d6;
+    background-color: #3094f1;
 }
 
 /*=====================================================================================
@@ -1056,7 +1056,7 @@ p {
 }
 
 .newsletter-form button:hover {
-    background-color: #01b5d6;
+    background-color: #3094f1;
 }
 
 /*=====================================================================================
@@ -1258,7 +1258,7 @@ p {
 }
 
 #footer p a:hover {
-    color: #01b5d6
+    color: #3094f1
 }
 
 /*=====================================================================================
