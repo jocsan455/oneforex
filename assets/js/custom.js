@@ -180,3 +180,12 @@
 
 
 }(jQuery));
+
+$(window).on('scroll', function () {
+    var scroll = $(window).scrollTop();
+        if (scroll < 100) {
+            $("#footer .click-to-top").removeClass("mostrar");
+        } else {
+            $("#footer .click-to-top").addClass("mostrar");
+        }
+    });

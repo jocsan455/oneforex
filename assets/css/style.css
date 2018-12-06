@@ -274,7 +274,7 @@ p {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5)
+    background-color: rgba(0, 0, 0, 0.75);
 }
 
 .caption {
@@ -1669,4 +1669,23 @@ padding: 0px;
 }
 .colori{
     color: inherit;
+}
+.click-to-top {
+    display: none;
+    background-color: #0088cc;
+    position: fixed;
+    bottom: 30px;
+    right: 15px;
+    overflow: hidden;
+    border-radius: 4px;
+}
+.click-to-top > a {
+    background-color: #0088cc;
+    color: #fff;
+    display: block;
+    font-size: 22px;
+    padding: 5px 0px;
+}
+.mostrar{
+    display: inherit !important;
 }
