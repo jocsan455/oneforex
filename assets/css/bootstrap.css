@@ -5400,18 +5400,18 @@ button.close {
 }
 
 .modal-content {
-  position: relative;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-direction: column;
   flex-direction: column;
   width: 100%;
   pointer-events: auto;
+  position: relative;
   background-color: #fff;
   background-clip: padding-box;
-  border: 1px solid rgba(0, 0, 0, 0.2);
-  border-radius: 0.3rem;
+  border: 1px solid rgba(0, 0, 0, .2);
+  border-radius: 6px;
+  padding: 5%;
+  text-align: center;
   outline: 0;
+  box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
 }
 
 .modal-backdrop {
@@ -5507,7 +5507,7 @@ button.close {
 
 @media (min-width: 992px) {
   .modal-lg {
-    max-width: 800px;
+    max-width: 900px;
   }
 }
 
@@ -8763,6 +8763,7 @@ button.bg-dark:focus {
 
 .text-left {
   text-align: left !important;
+  display: block;
 }
 
 .text-right {
