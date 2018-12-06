@@ -1689,3 +1689,6 @@ padding: 0px;
 .mostrar{
     display: inherit !important;
 }
+.modal ul li{
+    font-size: 13px;
+}

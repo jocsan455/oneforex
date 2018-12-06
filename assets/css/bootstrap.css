@@ -138,6 +138,7 @@ dfn {
 b,
 strong {
   font-weight: bolder;
+  font-size: 15px;
 }
 
 small {
@@ -8748,6 +8749,7 @@ button.bg-dark:focus {
 
 .text-justify {
   text-align: justify !important;
+  display: block;
 }
 
 .text-nowrap {
