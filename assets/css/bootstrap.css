@@ -138,6 +138,8 @@ dfn {
 b,
 strong {
   font-weight: bolder;
+}
+strong {
   font-size: 15px;
 }
 
