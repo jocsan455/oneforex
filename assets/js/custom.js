@@ -177,6 +177,7 @@
     $(window).on('load', function () {
         $('.preloader').fadeOut(500);
     });
+    setTimeout(function(){ $('.preloader').fadeOut(500);}, 1000);
 
 
 }(jQuery));
